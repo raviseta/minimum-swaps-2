@@ -45,20 +45,10 @@ After swapping  we get
 After swapping  we get 
 So, we need a minimum of  swaps to sort the array in ascending order.
 
-Sample Input 1
+![image](https://user-images.githubusercontent.com/18464085/213908333-eccda76e-0378-4580-8c10-9af49d0f71e9.png)
+</br>
+![image](https://user-images.githubusercontent.com/18464085/213908349-4dd9b672-c2df-4752-aa34-58468a5eeb14.png)
 
-5
-2 3 4 1 5
-Sample Output 1
-
-3
-Explanation 1
-
-Given array 
-After swapping  we get 
-After swapping  we get 
-After swapping  we get 
-So, we need a minimum of  swaps to sort the array in ascending order.
 
 Sample Input 2
 
