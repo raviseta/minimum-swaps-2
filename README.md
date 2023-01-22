@@ -27,40 +27,12 @@ int: the minimum number of swaps to sort the array
 
 The first line contains an integer, n , the size of arr.
 The second line contains n space-separated integers arr[i]
-
-<b> Constraints </b>
-
-<b> Sample Input 0 </b>
-
-4
-4 3 1 2
-Sample Output 0
-
-3
-Explanation 0
-
-Given array 
-After swapping  we get 
-After swapping  we get 
-After swapping  we get 
-So, we need a minimum of  swaps to sort the array in ascending order.
-
+<br>
+![image](https://user-images.githubusercontent.com/18464085/213908417-d23989c3-c050-4368-87f4-5d558739239f.png)
+<br>
 ![image](https://user-images.githubusercontent.com/18464085/213908333-eccda76e-0378-4580-8c10-9af49d0f71e9.png)
 </br>
 ![image](https://user-images.githubusercontent.com/18464085/213908349-4dd9b672-c2df-4752-aa34-58468a5eeb14.png)
+</br>
+![image](https://user-images.githubusercontent.com/18464085/213908388-384e23d4-b5b2-4bce-adf1-ca6a1784ce07.png)
 
-
-Sample Input 2
-
-7
-1 3 5 2 4 6 7
-Sample Output 2
-
-3
-Explanation 2
-
-Given array 
-After swapping  we get 
-After swapping  we get 
-After swapping  we get 
-So, we need a minimum of  swaps to sort the array in ascending order.
